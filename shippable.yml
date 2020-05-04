@@ -1,5 +1,3 @@
-language: none
-
 resources:
 # Automation scripts repo
   - name: aws_vpc_repo
